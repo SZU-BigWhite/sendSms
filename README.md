@@ -1,5 +1,5 @@
-##阿里云发送短信
-##Springboot + SDK
+## 阿里云发送短信
+## Springboot + SDK
 
 ### 配置yml文件
     aliyun:
@@ -13,7 +13,7 @@
 
 
 ### 使用
-  @Autowired
-  SmsClient smsClient;
-  @Autowired
-  SmsTemplate smsTemplate;
+      @Autowired
+      SmsClient smsClient;
+      @Autowired
+      SmsTemplate smsTemplate;
