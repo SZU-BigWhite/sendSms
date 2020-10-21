@@ -1,0 +1,12 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+aliyun:
+  sms:
+    access-key-id:
+    access-key-secret:
+    sign-name:
+    templates:
+      key1:
+        templateCode:
